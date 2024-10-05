@@ -24,6 +24,6 @@ use this url : `https://zxing.org/w/decode.jspx`
 | Parsed Result      | picoCTF{p33k_@_b00_b5ce2572}                                                                                    |
 
 
-![scan\_surprise/scan_surprise/scan_surprise/Scan_Surprise/barcode.png](Scan_Surprise/barcode.png)
+![scan\_surprise/scan_surprise/scan_surprise/Scan_Surprise/barcode.jpg](Scan_Surprise/barcode.jpg)
 
 open google lens from android phone and scan this bar-code to get flag

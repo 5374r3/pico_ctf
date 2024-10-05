@@ -4,11 +4,11 @@ Author: Danny
 #easy #cryptography #picoCTF2019 
 #### Description
 
-The [numbers](https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547a585649ba4fda/the_numbers.png)... what do they mean?
+The [numbers](https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547a585649ba4fda/the_numbers.jpg)... what do they mean?
 
 ##### Solution:
 
-![TheNumber/the\_numbers.png](TheNumber/the_numbers.png)
+![TheNumber/the\_numbers.png](TheNumber/the_numbers.jpg)
 
 ```css
 | Number | Letter | Number | Letter | Number | Letter | Number | Letter |
