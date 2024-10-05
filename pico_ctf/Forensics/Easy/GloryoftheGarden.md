@@ -16,6 +16,7 @@ Here is a flag "picoCTF{more_than_m33ts_the_3y33dd2eEF5}"
 use hex-editor to get flag
 simply open image file and search flag
 
-![[hexeditor_flag.jpg]]
+![GloryoftheGarden/hexeditor\_flag.jpg](GloryoftheGarden/hexeditor_flag.jpg)
+
 
 

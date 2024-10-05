@@ -8,7 +8,7 @@ The [numbers](https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547a
 
 ##### Solution:
 
-![[the_numbers.png]]
+![TheNumber/the\_numbers.png](TheNumber/the_numbers.png)
 
 ```css
 | Number | Letter | Number | Letter | Number | Letter | Number | Letter |
